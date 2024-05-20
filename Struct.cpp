@@ -45,5 +45,5 @@ int main()
 
 	cout << Player->Position.X << endl;
 
-	return 0;//0
+	return 0;
 }
